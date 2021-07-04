@@ -51,12 +51,12 @@ h2{
     box-shadow: 10px 10px 40px gray ;
 }
 #full-stack-experience{
-border-left: 5px solid;
+border-left: 7px solid;
 border-image: linear-gradient(salmon, tomato);
 border-image-slice: 1;
 }
 #web-dev-experience{
-    border-left: 5px solid;
+    border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 }
